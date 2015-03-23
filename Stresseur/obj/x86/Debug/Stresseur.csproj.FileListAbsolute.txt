@@ -1,0 +1,91 @@
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\bin\Debug\Stresseur.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\bin\Debug\Stresseur.pdb
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.ContextsForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.LearnFromTableForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.NewIndexingScriptForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.NewLearningScriptForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.UpdateRandom.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.MainForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.NewRandomTexteInsertForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.ResultsForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.SelectForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.TablesForm.resources
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.exe
+C:\Users\admin\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.pdb
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\bin\Debug\Stresseur.exe
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\bin\Debug\Stresseur.pdb
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.ContextsForm.resources
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.LearnFromTableForm.resources
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.NewIndexingScriptForm.resources
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.NewLearningScriptForm.resources
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.UpdateRandom.resources
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.MainForm.resources
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.NewRandomTexteInsertForm.resources
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.Properties.Resources.resources
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.ResultsForm.resources
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.SelectForm.resources
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.TablesForm.resources
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.exe
+C:\Users\patrice\Documents\Visual Studio 2010\Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.pdb
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\Stresseur.exe
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\Stresseur.pdb
+C:\mARC_Win_x86_64\Stresseur\Stresseur\bin\Debug\Stresseur.exe
+C:\mARC_Win_x86_64\Stresseur\Stresseur\bin\Debug\Stresseur.pdb
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\Stresseur.ContextsForm.resources
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\Stresseur.LearnFromTableForm.resources
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\Stresseur.NewIndexingScriptForm.resources
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\Stresseur.NewLearningScriptForm.resources
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\Stresseur.UpdateRandom.resources
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\Stresseur.MainForm.resources
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\Stresseur.NewRandomTexteInsertForm.resources
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\Stresseur.Properties.Resources.resources
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\Stresseur.ResultsForm.resources
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\Stresseur.SelectForm.resources
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\Stresseur.TablesForm.resources
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\mARC_Win_x86_64\Stresseur\Stresseur\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.exe
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.pdb
+C:\dev\VS2010_Projects\Stresseur\Stresseur\bin\Debug\Stresseur.exe
+C:\dev\VS2010_Projects\Stresseur\Stresseur\bin\Debug\Stresseur.pdb
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.ContextsForm.resources
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.LearnFromTableForm.resources
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.NewIndexingScriptForm.resources
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.NewLearningScriptForm.resources
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.UpdateRandom.resources
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.MainForm.resources
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.NewRandomTexteInsertForm.resources
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.Properties.Resources.resources
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.ResultsForm.resources
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.SelectForm.resources
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\Stresseur.TablesForm.resources
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\dev\VS2010_Projects\Stresseur\Stresseur\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\obj\x86\Debug\Stresseur.exe
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\obj\x86\Debug\Stresseur.pdb
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\bin\Debug\Stresseur.exe
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\bin\Debug\Stresseur.pdb
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\obj\x86\Debug\Stresseur.csprojResolveAssemblyReference.cache
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\obj\x86\Debug\Stresseur.ContextsForm.resources
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\obj\x86\Debug\Stresseur.LearnFromTableForm.resources
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\obj\x86\Debug\Stresseur.NewIndexingScriptForm.resources
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\obj\x86\Debug\Stresseur.NewLearningScriptForm.resources
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\obj\x86\Debug\Stresseur.UpdateRandom.resources
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\obj\x86\Debug\Stresseur.MainForm.resources
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\obj\x86\Debug\Stresseur.NewRandomTexteInsertForm.resources
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\obj\x86\Debug\Stresseur.Properties.Resources.resources
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\obj\x86\Debug\Stresseur.ResultsForm.resources
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\obj\x86\Debug\Stresseur.SelectForm.resources
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\obj\x86\Debug\Stresseur.TablesForm.resources
+C:\Users\patrice\Documents\VS2012\Projects\Stresseur v1\Stresseur\obj\x86\Debug\Stresseur.csproj.GenerateResource.Cache
+C:\Users\patrice\Documents\Visual Studio 2012\Projects\RSSRTReader\Stresseur\obj\x86\Debug\Stresseur.exe
+C:\Users\patrice\Documents\Visual Studio 2012\Projects\RSSRTReader\Stresseur\obj\x86\Debug\Stresseur.pdb
